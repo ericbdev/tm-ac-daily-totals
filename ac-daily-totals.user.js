@@ -2,7 +2,7 @@
 // @name            Active Collab daily totals
 // @version         1.0.0
 // @namespace       ericbdev
-// @description     Adds display of Carb/Protein/Fat percentages to any daily food diary page. Also adds "Real Calories" calcalation based off 4/4/9 algorithm. Based on "MyFitnessPal Percentages and Net Carbs"
+// @description     Calculates daily time totals for Active Collab
 // @downloadURL     https://github.com/ericbdev/tm-ac-daily-totals/raw/master/ac-daily-totals.js
 // @include         http*://app.activecollab.com/*/my-time
 // ==/UserScript==

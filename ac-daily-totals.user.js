@@ -65,4 +65,8 @@ function timeTrackedPerDay() {
   }
 }
 
-timeTrackedPerDay();
+(function () {
+  setInterval(function () {
+    timeTrackedPerDay();
+  }, 200);
+})();

@@ -3,7 +3,7 @@
 // @version         1.0.0
 // @namespace       ericbdev
 // @description     Calculates daily time totals for Active Collab
-// @downloadURL     https://github.com/ericbdev/tm-ac-daily-totals/raw/master/ac-daily-totals.js
+// @downloadURL     https://github.com/ericbdev/tm-ac-daily-totals/raw/master/ac-daily-totals.user.js
 // @include         http*://app.activecollab.com/*/my-time
 // @require         https://code.jquery.com/jquery-3.2.1.slim.min.js
 // ==/UserScript==
